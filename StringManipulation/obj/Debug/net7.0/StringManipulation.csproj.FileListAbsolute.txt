@@ -1,0 +1,15 @@
+C:\Users\AnandAruldoss\OneDrive - Syncfusion\Desktop\Assignment\StringManipulation\bin\Debug\net7.0\StringManipulation.exe
+C:\Users\AnandAruldoss\OneDrive - Syncfusion\Desktop\Assignment\StringManipulation\bin\Debug\net7.0\StringManipulation.deps.json
+C:\Users\AnandAruldoss\OneDrive - Syncfusion\Desktop\Assignment\StringManipulation\bin\Debug\net7.0\StringManipulation.runtimeconfig.json
+C:\Users\AnandAruldoss\OneDrive - Syncfusion\Desktop\Assignment\StringManipulation\bin\Debug\net7.0\StringManipulation.dll
+C:\Users\AnandAruldoss\OneDrive - Syncfusion\Desktop\Assignment\StringManipulation\bin\Debug\net7.0\StringManipulation.pdb
+C:\Users\AnandAruldoss\OneDrive - Syncfusion\Desktop\Assignment\StringManipulation\obj\Debug\net7.0\StringManipulation.csproj.AssemblyReference.cache
+C:\Users\AnandAruldoss\OneDrive - Syncfusion\Desktop\Assignment\StringManipulation\obj\Debug\net7.0\StringManipulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AnandAruldoss\OneDrive - Syncfusion\Desktop\Assignment\StringManipulation\obj\Debug\net7.0\StringManipulation.AssemblyInfoInputs.cache
+C:\Users\AnandAruldoss\OneDrive - Syncfusion\Desktop\Assignment\StringManipulation\obj\Debug\net7.0\StringManipulation.AssemblyInfo.cs
+C:\Users\AnandAruldoss\OneDrive - Syncfusion\Desktop\Assignment\StringManipulation\obj\Debug\net7.0\StringManipulation.csproj.CoreCompileInputs.cache
+C:\Users\AnandAruldoss\OneDrive - Syncfusion\Desktop\Assignment\StringManipulation\obj\Debug\net7.0\StringManipulation.dll
+C:\Users\AnandAruldoss\OneDrive - Syncfusion\Desktop\Assignment\StringManipulation\obj\Debug\net7.0\refint\StringManipulation.dll
+C:\Users\AnandAruldoss\OneDrive - Syncfusion\Desktop\Assignment\StringManipulation\obj\Debug\net7.0\StringManipulation.pdb
+C:\Users\AnandAruldoss\OneDrive - Syncfusion\Desktop\Assignment\StringManipulation\obj\Debug\net7.0\StringManipulation.genruntimeconfig.cache
+C:\Users\AnandAruldoss\OneDrive - Syncfusion\Desktop\Assignment\StringManipulation\obj\Debug\net7.0\ref\StringManipulation.dll

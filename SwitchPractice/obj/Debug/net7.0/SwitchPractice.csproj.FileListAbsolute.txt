@@ -1,0 +1,15 @@
+C:\Users\AnandAruldoss\OneDrive - Syncfusion\Desktop\Assignment\SwitchPractice\obj\Debug\net7.0\SwitchPractice.csproj.AssemblyReference.cache
+C:\Users\AnandAruldoss\OneDrive - Syncfusion\Desktop\Assignment\SwitchPractice\obj\Debug\net7.0\SwitchPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AnandAruldoss\OneDrive - Syncfusion\Desktop\Assignment\SwitchPractice\obj\Debug\net7.0\SwitchPractice.AssemblyInfoInputs.cache
+C:\Users\AnandAruldoss\OneDrive - Syncfusion\Desktop\Assignment\SwitchPractice\obj\Debug\net7.0\SwitchPractice.AssemblyInfo.cs
+C:\Users\AnandAruldoss\OneDrive - Syncfusion\Desktop\Assignment\SwitchPractice\obj\Debug\net7.0\SwitchPractice.csproj.CoreCompileInputs.cache
+C:\Users\AnandAruldoss\OneDrive - Syncfusion\Desktop\Assignment\SwitchPractice\bin\Debug\net7.0\SwitchPractice.exe
+C:\Users\AnandAruldoss\OneDrive - Syncfusion\Desktop\Assignment\SwitchPractice\bin\Debug\net7.0\SwitchPractice.deps.json
+C:\Users\AnandAruldoss\OneDrive - Syncfusion\Desktop\Assignment\SwitchPractice\bin\Debug\net7.0\SwitchPractice.runtimeconfig.json
+C:\Users\AnandAruldoss\OneDrive - Syncfusion\Desktop\Assignment\SwitchPractice\bin\Debug\net7.0\SwitchPractice.dll
+C:\Users\AnandAruldoss\OneDrive - Syncfusion\Desktop\Assignment\SwitchPractice\bin\Debug\net7.0\SwitchPractice.pdb
+C:\Users\AnandAruldoss\OneDrive - Syncfusion\Desktop\Assignment\SwitchPractice\obj\Debug\net7.0\SwitchPractice.dll
+C:\Users\AnandAruldoss\OneDrive - Syncfusion\Desktop\Assignment\SwitchPractice\obj\Debug\net7.0\refint\SwitchPractice.dll
+C:\Users\AnandAruldoss\OneDrive - Syncfusion\Desktop\Assignment\SwitchPractice\obj\Debug\net7.0\SwitchPractice.pdb
+C:\Users\AnandAruldoss\OneDrive - Syncfusion\Desktop\Assignment\SwitchPractice\obj\Debug\net7.0\SwitchPractice.genruntimeconfig.cache
+C:\Users\AnandAruldoss\OneDrive - Syncfusion\Desktop\Assignment\SwitchPractice\obj\Debug\net7.0\ref\SwitchPractice.dll
